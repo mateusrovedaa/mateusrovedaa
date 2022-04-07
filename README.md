@@ -25,10 +25,6 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
             alt="TwitterIcon" height="30" aling="center"><img />
     </a>
-    <a href="https://roveeb.com/author/mateusrovedaa/">
-        <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="BlogIcon"
-            height="30" aling="center"><img />
-    </a>
 </p>
 
 <h2 align="center">Skills</h2>
@@ -45,8 +41,7 @@
         href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo"
             width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a> <a href="https://jekyllrb.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40" />
+            width="40" height="40" /> </a>
     </a> <a href="https://www.jenkins.io" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
     </a> <a href="https://laravel.com/" target="_blank"> <img
@@ -82,8 +77,3 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrovedaa&langs_count=10&layout=compact&theme=onedark"
         alt="Most Used Language" />
 </p>
-
-<h2 align='center'>Points</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=mateusrovedaa&column=3&theme=onedark"
-            alt="mateusrovedaa" /></a> </p>
