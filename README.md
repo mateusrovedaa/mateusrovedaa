@@ -1,79 +1,69 @@
 <h1 align="center">Hi 👋, I'm Mateus Roveda</h1>
-<h3 align="center">A DevOps engineer, developer and cybersecurity enthusiast</h3>
+<h3 align="center">A SysAdmin with DevOps culture (DevOps engineer), developer and cybersecurity enthusiast</h3>
+<h4 align="center">I use and like more GitLab (especially by DevOps tools)</h4>
 
-- 🌱 I’m currently learning **ansible, terraform and cache.**
+- 🔭 I’m currently working on [Univates CRIE_TI](https://univates.br/crieti)
 
-- 📫 How to reach me: **mateus@roveeb.com**
+- 🌱 I’m currently learning **ansible, Terraform, RHEL and OpenShift/Kubernetes.**
 
-<h2 align="center">Connect with me</h2>
+- 📝 I regularly write articles on [roveeb.com](roveeb.com)
 
-<p align="center">
-    <a href="https://linkedin.com/in/mateusrovedaa">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="LinkedinIcon" height="30" aling="center"><img />
-    </a>
-    <a href="https://www.youtube.com/ROVEEb">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-            alt="YouTubeIcon" height="30" aling="center"><img />
-    </a>
-    </a>
-    <a href="https://www.instagram.com/roveebcanal">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="InstagramIcon" height="30" aling="center"><img />
-    </a>
-    <a href="https://twitter.com/mateusrovedaa">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-            alt="TwitterIcon" height="30" aling="center"><img />
-    </a>
-</p>
+- 💬 Ask me about **GNU/Linux, DevOps and community.**
 
-<h2 align="center">Skills</h2>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> <a
-        href="https://www.gnu.org/software/bash/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a> <a href="https://cloud.google.com" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-            height="40" /> </a> <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo"
-            width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a>
-    </a> <a href="https://www.jenkins.io" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-    </a> <a href="https://laravel.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-            alt="laravel" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a> <a href="https://mariadb.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-    </a> <a href="https://www.mongodb.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://www.nginx.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a> <a href="https://www.python.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://redis.io" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40" /> </a> </p>
+- 📫 How to reach me **contato@roveeb.com**
 
-<h2 align='center'>Stats</h2>
-<p align="center">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mateusrovedaa&count_private=true&show_icons=true&theme=onedark"
-        alt="My GitHub stats" />
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrovedaa&langs_count=10&layout=compact&theme=onedark"
-        alt="Most Used Language" />
-</p>
+- ⚡ Passionate about **generating content and community.**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+<h3 align="left">Connect with me</h3>
+    <p align="left">
+        <a href="https://twitter.com/mateusrovedaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mateusrovedaa" height="30" width="40" /></a>
+        <a href="https://gitlab.com/mateusrovedaa" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="https://gitlab.com/mateusrovedaa" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/mateusrovedaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusrovedaa" height="30" width="40" /></a>
+        <a href="https://stackoverflow.com/users/mateusrovedaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mateusrovedaa" height="30" width="40" /></a>
+        <a href="https://www.youtube.com/c/roveeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roveeb" height="30" width="40" /></a>
+        <a href="/https://roveeb.com/blog/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://roveeb.com/blog/rss.xml" height="30" width="40" /></a>
+    </p>
+
+<h3 align="left">Skills and stats</h3>
+<details>    
+    <summary><b>:gear: &nbsp;Languages and Tools:</b></summary>
+    <p align="left"> 
+        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+        <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+        <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+        <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+        <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+        <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+        <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+        <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
+    </p>
+</details>
+    
+
+<details>    
+    <summary><b>:gear: &nbsp;GitHub stats:</b></summary>    
+    <p>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrovedaa&langs_count=10&layout=compact&theme=onedark" alt="mateusrovedaa" />
+    </p>
+    <p>
+        &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusrovedaa&count_private=true&show_icons=true&theme=onedark" alt="mateusrovedaa" />
+    </p>
+</details>
