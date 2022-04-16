@@ -16,6 +16,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [VPN é realmente útil e necessário?](https://roveeb.com/blog/vpn-e-realmente-util-e-necessario)
+- [Como guardo meus dados na nuvem](https://roveeb.com/blog/como-guardo-meus-dados-na-nuvem)
 <!-- BLOG-POST-LIST:END -->
 
 
