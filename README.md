@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ansible, Terraform, RHEL and OpenShift/Kubernetes.**
 
-- 📝 I regularly write articles on [roveeb.com](roveeb.com)
+- 📝 I regularly write articles on [roveeb.com](https://roveeb.com)
 
 - 💬 Ask me about **GNU/Linux, DevOps and community.**
 
