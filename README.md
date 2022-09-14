@@ -2,7 +2,7 @@
 <h3 align="center">A SysAdmin with DevOps culture (DevOps engineer), developer and cybersecurity enthusiast</h3>
 <h4 align="center">I use and like more GitLab (especially by DevOps tools)</h4>
 
-- 🔭 I’m currently working on [Univates CRIE_TI](https://univates.br/crieti)
+- 🔭 I’m currently working on [Univates CRIE_TI](https://univates.br/crieti) and with infrastructure..
 
 - 🌱 I’m currently learning **ansible, Terraform, RHEL and OpenShift/Kubernetes.**
 
