@@ -16,9 +16,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Motivos que me fizeram mudar para o Fedora](https://roveeb.com/blog/motivos-que-me-fizeram-mudar-para-o-fedora)
-- [VPN é realmente útil e necessário?](https://roveeb.com/blog/vpn-e-realmente-util-e-necessario)
-- [Como guardo meus dados na nuvem](https://roveeb.com/blog/como-guardo-meus-dados-na-nuvem)
+- [Como criar pendrive bootável pelo terminal](https://roveeb.com/post/criar-pendrive-bootavel-terminal/)
+- [Como instalar a ProtonVPN](https://roveeb.com/post/como-instalar-protonvpn/)
+- [Instalação do Node-RED](https://roveeb.com/post/instalar-node-red/)
+- [Como instalar a ProtonVPN no GNU/Linux](https://roveeb.com/post/como-instalar-a-protonvpn-no-gnu-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
