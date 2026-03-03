@@ -8,7 +8,7 @@ I'm a software engineer with solid experience in cloud infrastructure, DevOps, G
 
 
 - 🌍 I'm based in Lajeado, Brazil
-- 🚀 I'm currently working on [Univates](https://univates.br) as a Professor, and [ITpS](https://itps.org.br)
+- 🚀 I'm currently working on [Univates](https://univates.br) as a Professor, and [ITpS](https://itps.org.br) as a DevOps Engineer.
 - 🌱 I’m currently learning **DevOps, CyberSecutiry, and AI.**
 - 📝 I regularly write articles on [https://roveeb.com](https://roveeb.com)
 - ✉️ You can contact me at [contato@roveeb.com](mailto:contato@roveeb.com)
@@ -48,18 +48,3 @@ I'm a software engineer with solid experience in cloud infrastructure, DevOps, G
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch"/>
   </a>
 </p>
-
-
-### Badges
-
-<b>GitHub Stats</b>
-
-<div align="center">
-<a href="http://www.github.com/mateusrovedaa"><img src="https://github-readme-stats.vercel.app/api?username=mateusrovedaa&show_icons=true&hide=&count_private=true&hide_border=true" alt="mateusrovedaa's GitHub stats" /></a>
-
-<a href="http://www.github.com/mateusrovedaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusrovedaa&hide_border=true" /></a>
-
-<a href="https://github.com/mateusrovedaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrovedaa&langs_count=5&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateusrovedaa" alt="mateusrovedaa" /></a> </p>
-</div>
